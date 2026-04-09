@@ -1,0 +1,16 @@
+SrNo,Parameter,Unit,Month,Year,Value,Data Source,Location
+1,pH,,,2024,7.9,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+2,COD,mg/l,,2024,76,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+3,BOD,mg/l,,2024,22,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+4,TSS,mg/l,,2024,22,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+5,TDS,mg/l,,2024,412,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+6,Conductivity,mg/l,,2024,780,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+7,Chloride,mg/l,,2024,34,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+8,Phosphate-P,mg/l,,2024,0.7,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+9,NO2-N,mg/l,,2024,0.08,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+10,NO3-N,mg/l,,2024,0.7,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+11,NH3-N,mg/l,,2024,6,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+12,SO4,mg/l,,2024,66,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+13,Colour,CU,,2024,0,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+14,TKN,mg/l,,2024,7,Green tribunal,NCC02 - Exit of Chandigarh Sector 53
+15,T-Coliform,MPN/100 ml,,2024,35x10^3,Green tribunal,NCC02 - Exit of Chandigarh Sector 53

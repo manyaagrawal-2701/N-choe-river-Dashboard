@@ -1,0 +1,10 @@
+SrNo,Parameter,Unit,Month,Year,Value,Data Source
+1,BOD,mg/l,April,2020,10.0,CPCB
+2,TSS,mg/l,April,2020,19.0,CPCB
+3,Faecal Coliform,MPN/100ml,April,2020,0.0,CPCB
+4,BOD,mg/l,May,2020,10.0,CPCB
+5,TSS,mg/l,May,2020,10.0,CPCB
+6,Faecal Coliform,MPN/100ml,May,2020,230.0,CPCB
+7,BOD,mg/l,June,2020,9.0,CPCB
+8,TSS,mg/l,June,2020,3.0,CPCB
+9,Faecal Coliform,MPN/100ml,June,2020,490.00000000000006,CPCB

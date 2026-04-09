@@ -1,0 +1,16 @@
+SrNo,Parameter,Unit,Month,Year,Value,Data Source,Location
+1,pH,,,2024,7.6,Green tribunal,NCM03 - Sector 83
+2,COD,mg/l,,2024,111,Green tribunal,NCM03 - Sector 83
+3,BOD,mg/l,,2024,31,Green tribunal,NCM03 - Sector 83
+4,TSS,mg/l,,2024,49,Green tribunal,NCM03 - Sector 83
+5,TDS,mg/l,,2024,484,Green tribunal,NCM03 - Sector 83
+6,Conductivity,mg/l,,2024,920,Green tribunal,NCM03 - Sector 83
+7,Chloride,mg/l,,2024,29,Green tribunal,NCM03 - Sector 83
+8,Phosphate-P,mg/l,,2024,2,Green tribunal,NCM03 - Sector 83
+9,NO2-N,mg/l,,2024,0,Green tribunal,NCM03 - Sector 83
+10,NO3-N,mg/l,,2024,0.5,Green tribunal,NCM03 - Sector 83
+11,NH3-N,mg/l,,2024,13,Green tribunal,NCM03 - Sector 83
+12,SO4,mg/l,,2024,47,Green tribunal,NCM03 - Sector 83
+13,Colour,CU,,2024,0,Green tribunal,NCM03 - Sector 83
+14,TKN,mg/l,,2024,16,Green tribunal,NCM03 - Sector 83
+15,T-Coliform,MPN/100 ml,,2024,79x10^5,Green tribunal,NCM03 - Sector 83
