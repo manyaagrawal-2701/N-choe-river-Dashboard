@@ -1,0 +1,19 @@
+SrNo,Parameter,Unit,Month,Year,Value,Data Source
+1,Temperature (Min),°C,,2023,15.0,CPCB 2023 Exit Point
+2,Temperature (Max),°C,,2023,29.0,CPCB 2023 Exit Point
+3,DO (Min),mg/l,,2023,0.3,CPCB 2023 Exit Point
+4,DO (Max),mg/l,,2023,8.8,CPCB 2023 Exit Point
+5,pH (Min),-,,2023,7.1,CPCB 2023 Exit Point
+6,pH (Max),-,,2023,7.8,CPCB 2023 Exit Point
+7,Conductivity (Min),µs/cm,,2023,150.0,CPCB 2023 Exit Point
+8,Conductivity (Max),µs/cm,,2023,793.0,CPCB 2023 Exit Point
+9,BOD (Min),mg/l,,2023,3.0,CPCB 2023 Exit Point
+10,BOD (Max),mg/l,,2023,118.0,CPCB 2023 Exit Point
+11,NO3-N (Min),mg/l,,2023,0.9,CPCB 2023 Exit Point
+12,NO3-N (Max),mg/l,,2023,4.3,CPCB 2023 Exit Point
+13,Faecal Coliform (Min),MPN/100ml,,2023,330.0,CPCB 2023 Exit Point
+14,Faecal Coliform (Max),MPN/100ml,,2023,260000.0,CPCB 2023 Exit Point
+15,Total Coliform (Min),MPN/100ml,,2023,1100.0,CPCB 2023 Exit Point
+16,Total Coliform (Max),MPN/100ml,,2023,940000.0,CPCB 2023 Exit Point
+17,FS (Min),MPN/100ml,,2023,0.0,CPCB 2023 Exit Point
+18,FS (Max),MPN/100ml,,2023,0.0,CPCB 2023 Exit Point
